@@ -1,0 +1,40 @@
+[
+    {
+        "name": "pray",
+        "periodicity": "daily",
+        "created_at": "2025-12-31T12:14:11.578590",
+        "completions": [
+            "2025-12-31T12:14:48.696062"
+        ]
+    },
+    {
+        "name": "fooball",
+        "periodicity": "weekly",
+        "created_at": "2025-12-31T12:15:25.015387",
+        "completions": []
+    },
+    {
+        "name": "studying ",
+        "periodicity": "daily",
+        "created_at": "2025-12-31T12:15:40.534655",
+        "completions": []
+    },
+    {
+        "name": "video call with my family",
+        "periodicity": "daily",
+        "created_at": "2025-12-31T12:22:17.622317",
+        "completions": []
+    },
+    {
+        "name": "driving ",
+        "periodicity": "weekly",
+        "created_at": "2025-12-31T12:22:45.716013",
+        "completions": []
+    },
+    {
+        "name": "dating",
+        "periodicity": "daily",
+        "created_at": "2025-12-31T12:23:22.297449",
+        "completions": []
+    }
+]
