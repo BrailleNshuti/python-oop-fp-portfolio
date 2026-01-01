@@ -32,4 +32,5 @@ This is a simple Python backend for tracking habits. It lets you add habits (dai
 - Single-user, no GUI.
 - Streaks use unique dates, ignore multiples same day.
 
-Created by Rusingiza Nshuti Braille, Dec 2025.
+
+Created by Rusingiza Nshuti Braille, jan 2026.
